@@ -2,7 +2,7 @@ import pygame
 import random
 import time
 
-#"C:\Users\Ерасыл\OneDrive\Desktop\PP2_LABS\LABS\LAB8\Racer\resources\AnimatedStreet.png"
+
 
 pygame.init() # initializes all the pygame sub-modules
 
